@@ -458,7 +458,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540764221.723465"
+            timestampString = "540765639.592494"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -474,7 +474,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540764221.723511"
+            timestampString = "540765639.5925961"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -602,7 +602,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540764221.723662"
+            timestampString = "540765639.592712"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
@@ -618,12 +618,12 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/FileWriterTest.swift"
-                  timestampString = "540764196.367859"
+                  timestampString = "540765640.441972"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "42"
                   endingLineNumber = "42"
-                  offsetFromSymbolStart = "917">
+                  offsetFromSymbolStart = "1171">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -633,7 +633,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/FileWriterTest.swift"
-                  timestampString = "540764196.369688"
+                  timestampString = "540765640.443922"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "42"
@@ -799,8 +799,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
             endingLineNumber = "21"
-            landmarkName = "testListFilesInTheDirectory()"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -810,7 +810,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.379738"
+                  timestampString = "540765640.453793"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -825,7 +825,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.3815269"
+                  timestampString = "540765640.455605"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "21"
@@ -842,7 +842,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540764221.724427"
+            timestampString = "540765639.592855"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -858,7 +858,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540764221.724485"
+            timestampString = "540765639.592901"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "55"
@@ -879,8 +879,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "14"
             endingLineNumber = "14"
-            landmarkName = "DirectoryInventoryControllerTest"
-            landmarkType = "3">
+            landmarkName = "unknown"
+            landmarkType = "0">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -890,7 +890,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.389089"
+                  timestampString = "540765640.463261"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -905,7 +905,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.3908401"
+                  timestampString = "540765640.465071"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -920,7 +920,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.392603"
+                  timestampString = "540765640.4669009"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -935,7 +935,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.394431"
+                  timestampString = "540765640.468958"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -950,7 +950,7 @@
                   moduleName = "JumperLabTests"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540764196.396283"
+                  timestampString = "540765640.471385"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "14"
@@ -958,6 +958,54 @@
                   offsetFromSymbolStart = "17">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/FileStreamReaderTest.swift"
+            timestampString = "540765639.5929559"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "testReadFile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/FileStreamReaderTest.swift"
+            timestampString = "540765639.592998"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testReadFile()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/FileStreamReaderTest.swift"
+            timestampString = "540765639.593039"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "setUp()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

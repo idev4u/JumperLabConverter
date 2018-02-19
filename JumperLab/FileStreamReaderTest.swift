@@ -20,16 +20,16 @@ class FileStreamReaderTest: XCTestCase {
         // It is called before the first test method begins.
         // Set up any overall initial state here.
         let testFile = "./JumperLab/JumperLabTests/testWrite.txt"
-        let fm = FileManager.default
+        let setupfm = FileManager.default
         do {
-            try fm.removeItem(atPath: testFile) }
+            try setupfm.removeItem(atPath: testFile) }
         catch {
-            XCTFail()
+            print(error.localizedDescription)
         }
     }
 
     func testReadFile(){
-        let myfs = FSReader(path: fm.appendingPathComponent("/Users/norman/Developer/private/JumperLab/JumperLabTests/").absoluteString)
+        let myfs = FSReader(path: fm.appendingPathComponent("Developer/private/JumperLab/JumperLabTests/").absoluteString)
         let stream: String  = myfs.readFile(filename: "test.txt")
         
         XCTAssertNotNil(stream)
@@ -39,7 +39,7 @@ class FileStreamReaderTest: XCTestCase {
     }
     
     func testFileEncoding(){
-        let myfs = FSReader(path: fm.appendingPathComponent("/Users/norman/Developer/private/JumperLab/JumperLabTests/").absoluteString)
+        let myfs = FSReader(path: fm.appendingPathComponent("Developer/private/JumperLab/JumperLabTests/").absoluteString)
         let stream: String  = myfs.readFile(filename: "test_utf8.txt")
         
         XCTAssertNotNil(stream)
@@ -52,7 +52,7 @@ class FileStreamReaderTest: XCTestCase {
         let testCR = "\r\n"
         let testNOTCR = "\n"
         
-        let myfs = FSReader(path: fm.appendingPathComponent("/Users/norman/Developer/private/JumperLab/JumperLabTests/").absoluteString)
+        let myfs = FSReader(path: fm.appendingPathComponent("Developer/private/JumperLab/JumperLabTests/").absoluteString)
         var isFileFromWinOS = myfs.validateIfFileFromWinOS(file: testCR)
         
         XCTAssertTrue(isFileFromWinOS)

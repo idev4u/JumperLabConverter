@@ -24,19 +24,19 @@ class FileWriterTest: XCTestCase {
         do {
             try fm.removeItem(atPath: fm.homeDirectoryForCurrentUser.appendingPathComponent(testFile).absoluteString) }
         catch {
-           XCTFail()
+           print(error.localizedDescription)
         }
     }
 
     func testWriteFile() {
         
         let compare = "hello write test"
-        let myFSW = FSWriter(path: fm.homeDirectoryForCurrentUser.appendingPathComponent("/Users/norman/Developer/private/JumperLab/JumperLabTests/").absoluteString ,toFile: "testWrite.txt")
+        let myFSW = FSWriter(path: fm.homeDirectoryForCurrentUser.appendingPathComponent("Developer/private/JumperLab/JumperLabTests/").absoluteString ,toFile: "testWrite.txt")
         let result = myFSW.write(output: compare)
         
         XCTAssertTrue(result)
         
-        let myfs = FSReader(path: "/Users/norman/Developer/private/JumperLab/JumperLabTests/")
+        let myfs = FSReader(path: fm.homeDirectoryForCurrentUser.appendingPathComponent("Developer/private/JumperLab/JumperLabTests/").absoluteString)
         let stream: String  = myfs.readFile(filename: "testWrite.txt")
         
         XCTAssertNotNil(stream)
