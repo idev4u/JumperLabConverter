@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516224964.573622"
+            timestampString = "540849172.971804"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/LineConverterTest.swift"
-            timestampString = "540842014.457154"
+            timestampString = "540845479.916221"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
@@ -74,13 +74,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.972104"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "139"
-            endingLineNumber = "139"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -90,13 +90,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.973489"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "33"
             endingLineNumber = "33"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -106,43 +106,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.974435"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
             endingLineNumber = "45"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.CsvLineFormatter.formatListOfValuesInOneLine (valueMap : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
-                  moduleName = "JumperLabTests"
+                  symbolName = "JumperLab.CsvLineFormatter.formatListOfValuesInOneLine(valueMap: Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
+                  moduleName = "JumperLab"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLab/CsvLineFormatter.swift"
-                  timestampString = "516579719.487605"
+                  urlString = "file:///Users/norman/Developer/workspace/JumperLabConverter/JumperLab/CsvLineFormatter.swift"
+                  timestampString = "540847572.862711"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "3315">
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "3833">
                </Location>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.CsvLineFormatter.formatListOfValuesInOneLine (valueMap : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
-                  moduleName = "JumperLabTests"
+                  symbolName = "JumperLab.CsvLineFormatter.formatListOfValuesInOneLine(valueMap: Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
+                  moduleName = "JumperLab"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLab/CsvLineFormatter.swift"
-                  timestampString = "516579719.489153"
+                  urlString = "file:///Users/norman/Developer/workspace/JumperLabConverter/JumperLab/CsvLineFormatter.swift"
+                  timestampString = "540847572.869279"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "22489">
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "26571">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -154,43 +154,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.975749"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "51"
             endingLineNumber = "51"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.CsvLineFormatter.formatListOfValuesInOneLine (valueMap : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
-                  moduleName = "JumperLabTests"
+                  symbolName = "JumperLab.CsvLineFormatter.formatListOfValuesInOneLine(valueMap: Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
+                  moduleName = "JumperLab"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLab/CsvLineFormatter.swift"
-                  timestampString = "516579719.491516"
+                  urlString = "file:///Users/norman/Developer/workspace/JumperLabConverter/JumperLab/CsvLineFormatter.swift"
+                  timestampString = "540847572.8836451"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "50"
-                  endingLineNumber = "50"
-                  offsetFromSymbolStart = "4853">
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "5623">
                </Location>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.CsvLineFormatter.formatListOfValuesInOneLine (valueMap : Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
-                  moduleName = "JumperLabTests"
+                  symbolName = "JumperLab.CsvLineFormatter.formatListOfValuesInOneLine(valueMap: Swift.Array&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;) -&gt; Swift.String"
+                  moduleName = "JumperLab"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLab/CsvLineFormatter.swift"
-                  timestampString = "516579719.492979"
+                  urlString = "file:///Users/norman/Developer/workspace/JumperLabConverter/JumperLab/CsvLineFormatter.swift"
+                  timestampString = "540847572.891559"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "50"
-                  endingLineNumber = "50"
-                  offsetFromSymbolStart = "22497">
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "26579">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -202,13 +202,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.977234"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "43"
             endingLineNumber = "43"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -234,13 +234,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.978772"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "148"
-            endingLineNumber = "148"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -250,7 +250,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.887094"
+            timestampString = "540849172.9796751"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "36"
@@ -266,7 +266,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516690747.30305"
+            timestampString = "540849172.979761"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "41"
@@ -282,13 +282,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.9798369"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "152"
-            endingLineNumber = "152"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "splitPatientIdInSeprateValues(patientDict:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -298,11 +298,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.8873971"
+            timestampString = "540849172.980702"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -314,7 +314,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516691317.449352"
+            timestampString = "540849172.980787"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
@@ -330,7 +330,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.88761"
+            timestampString = "540849172.9808609"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "38"
@@ -346,7 +346,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.887798"
+            timestampString = "540849172.980938"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
@@ -362,13 +362,29 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.981015"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "142"
-            endingLineNumber = "142"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/CsvLineFormatter.swift"
+            timestampString = "540849172.981837"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -378,13 +394,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.982643"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "111"
-            endingLineNumber = "111"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -394,29 +410,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
-            landmarkName = "unknown"
-            landmarkType = "0">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.983445"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "34"
             endingLineNumber = "34"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -426,13 +426,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.984251"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
             endingLineNumber = "35"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -442,13 +442,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.985068"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "138"
-            endingLineNumber = "138"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -458,7 +458,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540842014.457796"
+            timestampString = "540847651.556689"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -474,7 +474,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540842014.45834"
+            timestampString = "540847651.5573829"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -490,13 +490,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FSWriter.swift"
-            timestampString = "516744064.19926"
+            timestampString = "540843271.620509"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
             endingLineNumber = "39"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "write(output:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -506,45 +506,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FSWriter.swift"
-            timestampString = "516741624.216403"
+            timestampString = "540843271.620887"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
             endingLineNumber = "29"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "write(output:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FSWriter.swift"
-            timestampString = "516741624.216403"
+            timestampString = "540843271.621213"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
             endingLineNumber = "30"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "write(output:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FSWriter.swift"
-            timestampString = "516741624.216403"
+            timestampString = "540843271.6215349"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "28"
             endingLineNumber = "28"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "write(output:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -554,7 +554,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516743903.391176"
+            timestampString = "540849172.9860131"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
@@ -570,7 +570,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516744322.490032"
+            timestampString = "540849172.986088"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "23"
@@ -586,7 +586,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/SectionSplitterTest.swift"
-            timestampString = "540842014.458847"
+            timestampString = "540844816.626372"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "25"
@@ -602,55 +602,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540842014.459268"
+            timestampString = "540847651.558248"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
             endingLineNumber = "42"
             landmarkName = "testWriteFile()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.FileWriterTest.testWriteFile() -&gt; ()"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/FileWriterTest.swift"
-                  timestampString = "540765640.441972"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42"
-                  offsetFromSymbolStart = "1171">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "implicit closure #2 : @autoclosure () throws -&gt; Swift.Optional&lt;Any&gt; in JumperLabTests.FileWriterTest.testWriteFile() -&gt; ()"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/FileWriterTest.swift"
-                  timestampString = "540765640.443922"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "42"
-                  endingLineNumber = "42"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/LineConverterTest.swift"
-            timestampString = "540842014.459612"
+            timestampString = "540845479.919878"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "26"
@@ -666,11 +634,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.888335"
+            timestampString = "540849172.986227"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -682,11 +650,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.8885241"
+            timestampString = "540849172.986308"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
@@ -698,13 +666,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.986383"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "196"
-            endingLineNumber = "196"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "trimEmpty(value:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -714,7 +682,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/main.swift"
-            timestampString = "540762181.888774"
+            timestampString = "540849172.987234"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "49"
@@ -730,13 +698,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/CsvLineFormatter.swift"
-            timestampString = "516785165.197423"
+            timestampString = "540849172.987312"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "204"
-            endingLineNumber = "204"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "trimEmpty(value:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -746,7 +714,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516784704.787947"
+            timestampString = "540849172.988114"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "63"
@@ -758,11 +726,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/LineConverter.swift"
-            timestampString = "516785005.936025"
+            timestampString = "540849172.988185"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "68"
@@ -794,45 +762,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/DirectoryInventoryControllerTest.swift"
-            timestampString = "540842014.459867"
+            timestampString = "540844816.628227"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
             endingLineNumber = "21"
             landmarkName = "testListFilesInTheDirectory()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.DirectoryInventoryControllerTest.testListFilesInTheDirectory() -&gt; ()"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.453793"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "232">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Optional&lt;Any&gt; in JumperLabTests.DirectoryInventoryControllerTest.testListFilesInTheDirectory() -&gt; ()"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.455605"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "21"
-                  endingLineNumber = "21"
-                  offsetFromSymbolStart = "12">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -842,7 +778,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540842014.459944"
+            timestampString = "540844816.628302"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -858,7 +794,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540842014.460019"
+            timestampString = "540844816.628373"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "55"
@@ -874,90 +810,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/DirectoryInventoryControllerTest.swift"
-            timestampString = "540842014.46009"
+            timestampString = "540844816.628455"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "14"
             endingLineNumber = "14"
             landmarkName = "DirectoryInventoryControllerTest"
             landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "variable initialization expression of JumperLabTests.DirectoryInventoryControllerTest.directoryPathForTest : Swift.String"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.463261"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.DirectoryInventoryControllerTest.directoryPathForTest.getter : Swift.String"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.465071"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "125">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.DirectoryInventoryControllerTest.init(invocation: Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; JumperLabTests.DirectoryInventoryControllerTest"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.4669009"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "21">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.DirectoryInventoryControllerTest.init(selector: ObjectiveC.Selector) -&gt; JumperLabTests.DirectoryInventoryControllerTest"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.468958"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "21">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "JumperLabTests.DirectoryInventoryControllerTest.init() -&gt; JumperLabTests.DirectoryInventoryControllerTest"
-                  moduleName = "JumperLabTests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/norman/Developer/private/JumperLab/JumperLabTests/DirectoryInventoryControllerTest.swift"
-                  timestampString = "540765640.471385"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "17">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -967,7 +826,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540842014.46016"
+            timestampString = "540844816.628525"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -983,7 +842,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540842014.46023"
+            timestampString = "540844816.628617"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "33"
@@ -999,12 +858,140 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540842014.460299"
+            timestampString = "540844816.628692"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "25"
             endingLineNumber = "25"
             landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/main.swift"
+            timestampString = "540849172.988438"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/main.swift"
+            timestampString = "540849172.988515"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/CsvLineFormatter.swift"
+            timestampString = "540849172.98859"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/CsvLineFormatter.swift"
+            timestampString = "540849172.989411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/main.swift"
+            timestampString = "540849172.990226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/CsvLineFormatter.swift"
+            timestampString = "540849172.990319"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/CsvLineFormatter.swift"
+            timestampString = "540849172.991274"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JumperLab/CsvLineFormatter.swift"
+            timestampString = "540849172.9924591"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "formatListOfValuesInOneLine(valueMap:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

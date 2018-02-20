@@ -55,57 +55,61 @@ class CsvLineFormatter {
                         }
                     }
                     
-                    if (lineArray[Mesurement.thirtyOne]?.isEmpty)!{
-                        if patientMetadata["mesureBY"] == "30" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.thirtyOne)
-                        }
-                    }
-                    if (lineArray[Mesurement.thirtyTwo]?.isEmpty)! && isOdd(index: index) == true {
-                        if patientMetadata["mesureBY"] == "30" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.thirtyTwo)
-                        }
-                    }
+//                    if (lineArray[Mesurement.thirtyOne]?.isEmpty)!{
+//                        if patientMetadata["mesureBY"] == "30" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.thirtyOne)
+//                        }
+//                    }
+//                    if (lineArray[Mesurement.thirtyTwo]?.isEmpty)! && isOdd(index: index) == true {
+//                        if patientMetadata["mesureBY"] == "30" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.thirtyTwo)
+//                        }
+//                    }
+//
+//                    if (lineArray[Mesurement.sixtyOne]?.isEmpty)!{
+//                        if patientMetadata["mesureBY"] == "60" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.sixtyOne)
+//                        }
+//                    }
+//                    if (lineArray[Mesurement.sixtyTwo]?.isEmpty)! && isOdd(index: index) == true {
+//                        if patientMetadata["mesureBY"] == "60" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.sixtyTwo)
+//                        }
+//                    }
+//
+//
+//                    if (lineArray[Mesurement.ninetyOne]?.isEmpty)!{
+//                        if patientMetadata["mesureBY"] == "90" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.ninetyOne)
+//                        }
+//                    }
+//                    if (lineArray[Mesurement.ninetyTwo]?.isEmpty)! && isOdd(index: index) == true {
+//                        if patientMetadata["mesureBY"] == "90" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.ninetyTwo)
+//                        }
+//                    }
+//
+//                    if (lineArray[Mesurement.oneHundretTwentyOne]?.isEmpty)!{
+//                        if patientMetadata["mesureBY"] == "120" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.oneHundretTwentyOne)
+//                        }
+//                    }
+//                    if (lineArray[Mesurement.oneHundretTwentyTwo]?.isEmpty)! && isOdd(index: index) == true {
+//                        if patientMetadata["mesureBY"] == "120" {
+//                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.oneHundretTwentyTwo)
+//                        }
+//                    }
                     
-                    if (lineArray[Mesurement.sixtyOne]?.isEmpty)!{
-                        if patientMetadata["mesureBY"] == "60" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.sixtyOne)
-                        }
-                    }
-                    if (lineArray[Mesurement.sixtyTwo]?.isEmpty)! && isOdd(index: index) == true {
-                        if patientMetadata["mesureBY"] == "60" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.sixtyTwo)
-                        }
-                    }
                     
-                    
-                    if (lineArray[Mesurement.ninetyOne]?.isEmpty)!{
-                        if patientMetadata["mesureBY"] == "90" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.ninetyOne)
-                        }
-                    }
-                    if (lineArray[Mesurement.ninetyTwo]?.isEmpty)! && isOdd(index: index) == true {
-                        if patientMetadata["mesureBY"] == "90" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.ninetyTwo)
-                        }
-                    }
-                    
-                    if (lineArray[Mesurement.oneHundretTwentyOne]?.isEmpty)!{
-                        if patientMetadata["mesureBY"] == "120" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.oneHundretTwentyOne)
-                        }
-                    }
-                    if (lineArray[Mesurement.oneHundretTwentyTwo]?.isEmpty)! && isOdd(index: index) == true {
-                        if patientMetadata["mesureBY"] == "120" {
-                            lineArray.updateValue(everyItemInMap["Quant_1_Value"]!, forKey: Mesurement.oneHundretTwentyTwo)
-                        }
-                    }
-                    
-                    
-                    
-                    for line in lineArray {
+//                    let max = ( lineArray.count - 1 )
+                    for (index, line) in lineArray.enumerated() {
+                        
                         if line.value.isEmpty{
                             lineCompleted = false
                         }
+//                        if (index >= max) {
+//                            lineCompleted = true
+//                        }
                     }
                     
                     if lineCompleted{
@@ -118,21 +122,21 @@ class CsvLineFormatter {
                         csvLine.append(Mesurement.csvDelimiter)
                         csvLine.append(lineArray[Mesurement.zeroTwo]!)
                         csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.thirtyOne]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.thirtyTwo]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.sixtyOne]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.sixtyTwo]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.ninetyOne]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.ninetyTwo]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.oneHundretTwentyOne]!)
-                        csvLine.append(Mesurement.csvDelimiter)
-                        csvLine.append(lineArray[Mesurement.oneHundretTwentyTwo]!)
+//                        csvLine.append(lineArray[Mesurement.thirtyOne]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.thirtyTwo]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.sixtyOne]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.sixtyTwo]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.ninetyOne]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.ninetyTwo]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.oneHundretTwentyOne]!)
+//                        csvLine.append(Mesurement.csvDelimiter)
+//                        csvLine.append(lineArray[Mesurement.oneHundretTwentyTwo]!)
                         csvLine.append("\n")
                         lineArray = getCleanLine()
                     }
@@ -170,15 +174,15 @@ class CsvLineFormatter {
     func getCleanLine() -> Dictionary<String, String>{
         return ["patientId" : "", "initials": "" ,
                 Mesurement.zeroOne : "",
-                Mesurement.zeroTwo : "",
-                Mesurement.thirtyOne : "",
-                Mesurement.thirtyTwo : "",
-                Mesurement.sixtyOne : "",
-                Mesurement.sixtyTwo : "",
-                Mesurement.ninetyOne : "",
-                Mesurement.ninetyTwo : "",
-                Mesurement.oneHundretTwentyOne : "",
-                Mesurement.oneHundretTwentyTwo : ""
+                Mesurement.zeroTwo : "" //,
+//                Mesurement.thirtyOne : "",
+//                Mesurement.thirtyTwo : "",
+//                Mesurement.sixtyOne : "",
+//                Mesurement.sixtyTwo : "",
+//                Mesurement.ninetyOne : "",
+//                Mesurement.ninetyTwo : "",
+//                Mesurement.oneHundretTwentyOne : "",
+//                Mesurement.oneHundretTwentyTwo : ""
         ]
     }
     

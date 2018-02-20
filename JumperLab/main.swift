@@ -10,9 +10,10 @@ import Foundation
 
 var outputForCsvLines = Array<String>()
 
-let directoryPathForExport: String = "/Users/norman/Developer/private/JumperExport/"
-let csvWriter = FSWriter(path: directoryPathForExport ,toFile: "testWrite.csv")
-let directoryPathForImport: String = "/Users/norman/Developer/private/JumperImport/AC_GHR_test/"
+let directoryPathForExport: String = "/Users/norman/Developer/workspace/JumperExport/"
+let csvWriter = FSWriter(path: directoryPathForExport ,toFile: "testWrite_test.csv")
+//let directoryPathForImport: String = "/Users/norman/Developer/workspace/JumperImport/test/"
+let directoryPathForImport: String = "/Users/norman/Developer/workspace/JumperImport/AC.GHR/"
 
 //let directoryPathForImport: String = "/Users/norman/Developer/private/JumperImport/UNAC_GHR/"
 
@@ -30,8 +31,7 @@ for file in listWithFiles {
     
     let lineConverter = LineConverter()
     let converted = lineConverter.convertSrtingToArray(withDelimiter: "\r\n", source: splittedStream[4])
-
-    
+    print("converted: \(converted)")
     //        let listOfValueMap = lineConverter.asValueMap(values: converted)
     let listOfValueMap = lineConverter.asValueMap()
     
