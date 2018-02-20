@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/LineConverterTest.swift"
-            timestampString = "540764221.723039"
+            timestampString = "540842014.457154"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "16"
@@ -458,7 +458,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540765639.592494"
+            timestampString = "540842014.457796"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -474,7 +474,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540765639.5925961"
+            timestampString = "540842014.45834"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -495,8 +495,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
             endingLineNumber = "39"
-            landmarkName = "write(output:)"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -511,8 +511,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
             endingLineNumber = "29"
-            landmarkName = "write(output:)"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -527,8 +527,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
             endingLineNumber = "30"
-            landmarkName = "write(output:)"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -543,8 +543,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "28"
             endingLineNumber = "28"
-            landmarkName = "write(output:)"
-            landmarkType = "7">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -586,7 +586,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/SectionSplitterTest.swift"
-            timestampString = "540764221.723618"
+            timestampString = "540842014.458847"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "25"
@@ -602,7 +602,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/FileWriterTest.swift"
-            timestampString = "540765639.592712"
+            timestampString = "540842014.459268"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "42"
@@ -650,7 +650,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/LineConverterTest.swift"
-            timestampString = "540764221.723704"
+            timestampString = "540842014.459612"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "26"
@@ -794,13 +794,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/DirectoryInventoryControllerTest.swift"
-            timestampString = "540764221.723863"
+            timestampString = "540842014.459867"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
             endingLineNumber = "21"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "testListFilesInTheDirectory()"
+            landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -842,7 +842,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540765639.592855"
+            timestampString = "540842014.459944"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -858,7 +858,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540765639.592901"
+            timestampString = "540842014.460019"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "55"
@@ -874,13 +874,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLabTests/DirectoryInventoryControllerTest.swift"
-            timestampString = "540764221.72453"
+            timestampString = "540842014.46009"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "14"
             endingLineNumber = "14"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            landmarkName = "DirectoryInventoryControllerTest"
+            landmarkType = "3">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -967,7 +967,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540765639.5929559"
+            timestampString = "540842014.46016"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -983,7 +983,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540765639.592998"
+            timestampString = "540842014.46023"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "33"
@@ -999,7 +999,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "JumperLab/FileStreamReaderTest.swift"
-            timestampString = "540765639.593039"
+            timestampString = "540842014.460299"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "25"

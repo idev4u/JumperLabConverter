@@ -16,7 +16,7 @@ class SectionSplitterTest: XCTestCase {
     
     func testSectionSplit() {
         
-        let myfs = FSReader(path: fm.appendingPathComponent("/Developer/private/JumperLab/JumperLabTests/").absoluteString)
+        let myfs = FSReader(path: fm.appendingPathComponent("/Developer/workspace/JumperLabConverter/JumperLabTests/").absoluteString)
         let stream: String  = myfs.readFile(filename: "test.txt")
 
         let sectionSplitter = SectionSplitter(initWithDelimiter: ["[","]"])

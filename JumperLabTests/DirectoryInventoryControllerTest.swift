@@ -11,7 +11,7 @@ import XCTest
 
 class DirectoryInventoryControllerTest: XCTestCase {
     
-    let directoryPathForTest: String = FileManager.default.homeDirectoryForCurrentUser.relativePath.appending("/Developer/private/JumperLab/JumperLabTests/")
+    let directoryPathForTest: String = FileManager.default.homeDirectoryForCurrentUser.relativePath.appending("/Developer//workspace/JumperLabConverter/JumperLabTests/")
 
  
     func testListFilesInTheDirectory() {

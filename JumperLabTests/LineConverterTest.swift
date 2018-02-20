@@ -15,7 +15,7 @@ class LineConverterTest: XCTestCase {
     
     func testLineConverter() {
         let compareString = "\"A1\"|\"\"|\"Fasten_Zeit\"|\"B1\"|\"*****\"|\"\"|\"IncKO\"|\"\""
-        let myfs = FSReader(path: fm.appendingPathComponent("/Developer/private/JumperLab/JumperLabTests/").absoluteString)
+        let myfs = FSReader(path: fm.appendingPathComponent("/Developer/workspace/JumperLabConverter/JumperLabTests/").absoluteString)
         let stream: String  = myfs.readFile(filename: "test.txt")
         
         let sectionSplitter = SectionSplitter(initWithDelimiter: ["[","]"])
