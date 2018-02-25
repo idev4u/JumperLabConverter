@@ -25,7 +25,8 @@ class CsvLineFormatter {
         static var csvDelimiter = ";"
     }
     
-    func formatListOfValuesInOneLine(valueMap: Array<Dictionary<String, String>>) -> String {
+    func formatListOfValuesInOneLine(valueMap: Array<Dictionary<String, String>>, filename:String) -> String {
+        
         var  csvLine = String()
         var lineArray = getCleanLine()
         var patientMetadata = Dictionary<String, String>()
@@ -137,6 +138,7 @@ class CsvLineFormatter {
 //                        csvLine.append(lineArray[Mesurement.oneHundretTwentyOne]!)
 //                        csvLine.append(Mesurement.csvDelimiter)
 //                        csvLine.append(lineArray[Mesurement.oneHundretTwentyTwo]!)
+                        csvLine.append(filename)
                         csvLine.append("\n")
                         lineArray = getCleanLine()
                     }
